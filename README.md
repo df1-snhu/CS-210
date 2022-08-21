@@ -1,1 +1,8 @@
-# CS-210
+# CS-210 Project Three
+
+1. This project is a grocery-tracking application that uses C++ and python. It produces a list of all items purchased in a given day along with the number of times each item was purchased, a number representing how many times a specific item was purchased in a given day, and a text-based histogram listing all items purchased in a given day, along with a representation of the number of times each item was purchased.
+2. I think I wrote the code relatively well for this being my first experience with python, and the structure of the code is simple and effective. 
+3. To enhance the code, I'd probably make the console menu more user-friendly, but more importantly, I would add another C++ function that allows multiple parameters to be passed to the python code.  Another feature I would add is the ability for the user to enter a specific filename to be evaluated. These changes wouldn't really make the program more secure or efficient, but they are good QoL changes that would improve the user experience and add more functionality. 
+4. I didn't really find any of the code too hard to write; like I mentioned above, this was my first experience with Python, but even then, searching online was more than enough to enable me to write the code. 
+5. I think the main skill that will be a significant asset to projects in the future is the integration of C++ and python; working with two programming languages in a project really allows for a lot of optimization and functionality, so I look forward to doing similar projects. 
+6. I made sure to put all of the logic inside of functions that are well documented with inline coments so that my code would be easy for someone coming into the project to understand and edit/add to. I used a pretty simple structure for the project as well, so that helps with its maintainability. 
